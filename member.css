@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap');
+
+body{
+    /* font-family: 'Roboto', sans-serif; */
+    width: 100%;
+    height: auto;
+    min-height: 750px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    background-image: url(./assests/home.jpeg);
+
+}
+
+
+.cus-tab{
+   margin-top: 180px;
+   padding-bottom: 100px;
+}
+
+footer{
+    margin-bottom: -24px;
+    padding-bottom: 20px;
+    background-color: rgb(39, 23, 80);
+    color: aliceblue;
+    
+ }
+
+ a{
+    text-decoration: none;
+    color: white;
+    font-size:large;
+    font-weight: bold;
+    
+ }
+
+ a:hover{
+    color: aliceblue;
+ }
+
+ .copyright{
+    text-align: center;
+   
+ }

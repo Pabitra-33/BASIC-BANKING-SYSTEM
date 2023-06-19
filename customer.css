@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap');
+
+body{
+    /* font-family: 'Roboto', sans-serif; */
+    width: 100%;
+    height: auto;
+    min-height: 750px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    background-image: url(./assets/home.jpeg);
+
+
+    
+
+}
+ 
+
+.my-info{
+    background-color: aliceblue;
+    margin-top: 120px;
+    margin-bottom: 40px;
+    margin-left: 29vw;
+    margin-right: 29vw;
+    padding: 8px;
+    font-family: 'Castoro Titling', cursive;
+    font-size: xx-large;
+    color: rgb(170, 44, 198);
+    border:1px solid black;
+    border-radius: 14px;
+    -webkit-box-shadow: 14px 17px 39px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 14px 17px 39px 0px rgba(0,0,0,0.75);
+box-shadow: 14px 17px 39px 0px rgba(0,0,0,0.75);
+    
+}
+.button{
+
+    padding-top: 6px;
+    padding-bottom: 3px;
+}
+.btn-info{
+
+    background-color:rgb(41, 150, 228)!important;
+    color: #fff!important;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(6, 88, 165)!important;
+}
+
+.cus-tab{
+    padding-top: 30px;
+    padding-bottom: 120px;
+}
+
+footer{
+    margin-bottom: -24px;
+    padding-bottom: 20px;
+    background-color: rgb(39, 23, 80);
+    color: aliceblue;
+    
+ }
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size:large;
+    font-weight: bold;
+    
+}
+
+ a:hover{
+    color: aliceblue;
+ }
+
+ .copyright{
+    text-align: center;
+   
+ }
